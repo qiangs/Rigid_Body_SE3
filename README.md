@@ -8,8 +8,8 @@ Z. Y. Kang, Q. Shen, S. F. Wu and C. Damaren, ‘‘Saturated adaptive pose trac
 Ini_SE3_singel.mlx
 
 ## Main 
-SE3single.slx   (Rigid body on SE(3) with constraints)
-SE3single_NoC.slx  (Rigid body on SE(3) without constraints)
+- SE3single.slx   (Rigid body on SE(3) with constraints)
+- SE3single_NoC.slx  (Rigid body on SE(3) without constraints)
 
 
 ## Plotting
